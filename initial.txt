@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Testing
+=======
+This is the initial file.
+>>>>>>> 8dbb6d85071732eb0b514aa41b5f83761957fa9c
